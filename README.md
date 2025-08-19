@@ -94,7 +94,3 @@ This dashboard is intended to help HR teams and decision-makers:
 * Make data-informed organizational decisions
 
   <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/052ccb4b-c54d-46e4-9b48-ecc4627db6aa" />
-
-
-
-Let me know if you’d like to add a screenshot of the dashboard or links to data sources!

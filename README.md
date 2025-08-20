@@ -1,3 +1,4 @@
+  <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/052ccb4b-c54d-46e4-9b48-ecc4627db6aa" />
 
 # 📊 HR Analytics Power BI Dashboard
 
@@ -92,5 +93,3 @@ This dashboard is intended to help HR teams and decision-makers:
 * Identify high-risk attrition segments
 * Develop employee retention strategies
 * Make data-informed organizational decisions
-
-  <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/052ccb4b-c54d-46e4-9b48-ecc4627db6aa" />
